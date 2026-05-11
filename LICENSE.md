@@ -1,4 +1,4 @@
-
+iStat Menus for macOS best Automation - duplicate-finder and dark-mode is the best iStat Menus for macOS automation, featuring duplicate-finder and dark-mode. Safe, efficient, and
 
 
 
